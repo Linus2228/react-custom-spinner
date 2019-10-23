@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/Linus2228/react-custom-spinner.git"
   },
-  "keywords": ["react", "css", "spinner"],
+  "keywords": [
+    "react",
+    "css",
+    "spinner"
+  ],
   "author": "Dzmitry Kudla",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Linus2228/react-custom-spinner/issues"
   },
-  "homepage": "https://github.com/Linus2228/react-custom-spinner#readme"
+  "homepage": "https://github.com/Linus2228/react-custom-spinner#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
 }
