@@ -1,0 +1,20 @@
+{
+  "name": "react-custom-spinner",
+  "version": "1.0.0",
+  "description": "css only spinners for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linus2228/react-custom-spinner.git"
+  },
+  "keywords": ["react", "css", "spinner"],
+  "author": "Dzmitry Kudla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linus2228/react-custom-spinner/issues"
+  },
+  "homepage": "https://github.com/Linus2228/react-custom-spinner#readme"
+}
