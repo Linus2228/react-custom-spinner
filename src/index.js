@@ -1,6 +1,5 @@
+import React from "react";
 
-import React from 'react'
+const Spinner = () => <h3>Spinner</h3>;
 
-const Spinner = () => <h3>Spinner</h3>
-
-export default Spinner
+export default Spinner;
