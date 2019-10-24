@@ -1,5 +1,5 @@
-import React from 'react'
-import styles from './styles.css'
+import React from "react";
+import styles from "./styles.css";
 
 const Ripple = () => (
   <>
@@ -9,6 +9,6 @@ const Ripple = () => (
       <div />
     </div>
   </>
-)
+);
 
-export default Ripple
+export default Ripple;
