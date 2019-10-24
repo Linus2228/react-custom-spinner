@@ -1,5 +1,2 @@
-import React from "react";
-
-const Spinner = () => <h3>Spinner</h3>;
-
-export default Spinner;
+export { default as Ellipsis } from './Ripple/Ripple'
+export { default as Ring } from './Ring/Ring'

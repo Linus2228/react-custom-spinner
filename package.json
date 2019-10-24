@@ -2,7 +2,9 @@
   "name": "react-custom-spinner",
   "version": "1.0.0",
   "description": "css only spinners for React",
-  "main": "index.js",
+  "main": "dist/bundle.cjs.js",
+  "module": "dist/bundle.esm.js",
+  "sideEffects": false,
   "scripts": {
     "clean": "rimraf dist",
     "lint": "eslint '**/*.js'",
@@ -38,6 +40,7 @@
     "rollup": "^1.25.2",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-string": "^2.0.2",
     "rollup-plugin-terser": "^5.1.2"
   },
   "husky": {
