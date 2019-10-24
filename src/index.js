@@ -1,2 +1,6 @@
-console.log("in progress");
-console.log("in progress");
+
+import React from 'react'
+
+const Spinner = () => <h3>Spinner</h3>
+
+export default Spinner
